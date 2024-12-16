@@ -1,0 +1,21 @@
+{
+    "name": "aternos/creabit",
+    "description": "This is a small Minecraft tool written in PHP to fix missing end or nether dimension compound tags in the level.dat file.",
+    "type": "library",
+    "license": "MIT",
+    "require": {
+        "aternos/nbt": "^1.4.1",
+        "ext-readline": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "Aternos\\Creabit\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Riccardo",
+            "email": "riccardo@aternos.org"
+        }
+    ]
+}
