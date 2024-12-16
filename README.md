@@ -1,4 +1,11 @@
+# About
 This is a small Minecraft tool written in PHP to fix missing end or nether dimension compound tags in the level.dat file. If the tags are missing, the portals do not work.
+
+# Installation
+
+```bash
+composer require aternos/creabit
+```
 
 # Usage CLI
 
