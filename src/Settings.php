@@ -3,7 +3,6 @@
 namespace Aternos\Creabit;
 
 use Aternos\Nbt\Tag\StringTag;
-use Exception;
 use Aternos\Creabit\Enums\SettingsType;
 
 class Settings
