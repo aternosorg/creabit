@@ -3,7 +3,6 @@
 namespace Aternos\Creabit;
 
 use Aternos\Nbt\Tag\StringTag;
-use Exception;
 use Aternos\Creabit\Enums\BiomeSourceType;
 use Aternos\Creabit\Enums\DimensionType;
 use Aternos\Creabit\Enums\GeneratorType;
